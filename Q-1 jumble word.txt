@@ -1,0 +1,13 @@
+Question 1:
+
+Given the following jumble word, OBANWRI guess the correct English word.
+
+	A. RANIBOW
+	B. RAINBOW
+	C. BOWRANI
+	D. ROBWANI
+
+
+Answer: ---------------------------------
+
+	c. RAINBOW
